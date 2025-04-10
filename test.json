@@ -1,0 +1,17 @@
+[
+  {
+  "descricao": "treinar",
+  "status": "pendente",
+  "prazo": 10-04-2025,
+  },
+  {
+  "descricao": "ler um livro",
+  "status": "pendente",
+  "prazo": 13-04-2025,
+  },
+  {
+  "descricao": "ir na bienal",
+  "status": "pendente",
+  "prazo": 13-04-2025,
+  }
+]
